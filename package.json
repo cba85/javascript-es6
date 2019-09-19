@@ -1,0 +1,6 @@
+{
+  "name": "teach-javascript-es6",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
